@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://abertjin.com/</loc>
-         <lastmod>2022-12-16</lastmod>
+         <lastmod>2022-12-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://abertjin.com/algorithm/</loc>
-         <lastmod>2022-12-16</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://abertjin.com/datastructure/</loc>
-         <lastmod>2022-12-16</lastmod>
+         <lastmod>2022-12-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://abertjin.com/fi/</loc>
-         <lastmod>2022-12-16</lastmod>
+         <lastmod>2022-12-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://abertjin.com/foo/</loc>
-         <lastmod>2022-12-16</lastmod>
+         <lastmod>2022-12-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://abertjin.com/computer/datastructure/datastructure/</loc>
+         <lastmod>2022-12-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://abertjin.com/math/calculus/calculus/</loc>
-         <lastmod>2022-12-16</lastmod>
+         <lastmod>2022-12-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
